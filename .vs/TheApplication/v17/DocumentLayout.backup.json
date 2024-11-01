@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\TheApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{99978DC2-3974-4CAF-B58B-570237675A0F}|API\\API.csproj|c:\\users\\admin\\source\\repos\\theapplication\\api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99978DC2-3974-4CAF-B58B-570237675A0F}|API\\API.csproj|solutionrelative:api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{99978DC2-3974-4CAF-B58B-570237675A0F}|API\\API.csproj|c:\\users\\admin\\source\\repos\\theapplication\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{99978DC2-3974-4CAF-B58B-570237675A0F}|API\\API.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
@@ -23,24 +19,11 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TheApplication\\API\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TheApplication\\API\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "API\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T17:58:57.675Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "API",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TheApplication\\API\\API.csproj",
               "RelativeDocumentMoniker": "API\\API.csproj",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TheApplication\\API\\API.csproj",
-              "RelativeToolTip": "API\\API.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TheApplication\\API\\API.csproj*",
+              "RelativeToolTip": "API\\API.csproj*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-10-25T17:56:34.777Z",
