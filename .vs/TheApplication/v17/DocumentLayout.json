@@ -18,8 +18,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,7 +36,7 @@
               "RelativeDocumentMoniker": "API\\Controllers\\WeatherForecastController.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\TheApplication\\API\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "API\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-25T17:58:57.675Z",
               "EditorCaption": ""
@@ -36,23 +44,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "API",
+              "Title": "API.csproj",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TheApplication\\API\\API.csproj",
               "RelativeDocumentMoniker": "API\\API.csproj",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\TheApplication\\API\\API.csproj",
               "RelativeToolTip": "API\\API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-25T17:56:34.777Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "WhenOpened": "2024-10-25T17:56:34.777Z"
             }
           ]
         }
