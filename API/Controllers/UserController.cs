@@ -25,7 +25,8 @@ namespace API.Controllers
             var user = context.Users.Find(id);
             if(user == null)
             return NotFound();
-            
+            else
+            Console.WriteLine("testforgit");
             return user;
         }
         
