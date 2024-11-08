@@ -19,16 +19,16 @@ namespace API.Controllers
             return Ok(users);
         }
 
-        [HttpGet("{id: int}")]
-        public ActionResult<AppUser> GetUser(int id)
-        {
-            var user = context.Users.Find(id);
-            if(user == null)
-            return NotFound();
-            else
-            Console.WriteLine("testforgit");
-            return user;
-        }
+         [HttpGet("{id: int}")]
+         public ActionResult<AppUser> GetUser(int id)
+         {
+             var user = context.Users.Find(id);
+             if(user == null)
+             return NotFound();
+             else
+             
+             return user;
+         }
         
     }
 }
