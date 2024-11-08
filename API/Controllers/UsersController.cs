@@ -8,7 +8,7 @@ namespace API.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    public class UserController(DataContext context) : ControllerBase
+    public class UsersController(DataContext context) : ControllerBase
     {
         private readonly DataContext context = context;
 
@@ -19,16 +19,15 @@ namespace API.Controllers
             return Ok(users);
         }
 
-         [HttpGet("{id: int}")]
-         public ActionResult<AppUser> GetUser(int id)
-         {
-             var user = context.Users.Find(id);
-             if(user == null)
-             return NotFound();
-             else
-             
-             return user;
-         }
-        
+        [HttpGet("{id:int}")]
+        public ActionResult<AppUser> GetUser(int id)
+        {
+            var user = context.Users.Find(id);
+            if (user == null)
+                return NotFound();
+            else
+
+                return user;
+        }
     }
 }

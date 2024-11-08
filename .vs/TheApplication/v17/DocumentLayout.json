@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\TheApplication\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{99978DC2-3974-4CAF-B58B-570237675A0F}|API\\API.csproj|c:\\users\\admin\\source\\repos\\theapplication\\api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99978DC2-3974-4CAF-B58B-570237675A0F}|API\\API.csproj|solutionrelative:api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99978DC2-3974-4CAF-B58B-570237675A0F}|API\\API.csproj|c:\\users\\admin\\source\\repos\\theapplication\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{99978DC2-3974-4CAF-B58B-570237675A0F}|API\\API.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{99978DC2-3974-4CAF-B58B-570237675A0F}|API\\API.csproj|c:\\users\\admin\\source\\repos\\theapplication\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{99978DC2-3974-4CAF-B58B-570237675A0F}|API\\API.csproj|solutionrelative:api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{99978DC2-3974-4CAF-B58B-570237675A0F}|API\\API.csproj|c:\\users\\admin\\source\\repos\\theapplication\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99978DC2-3974-4CAF-B58B-570237675A0F}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99978DC2-3974-4CAF-B58B-570237675A0F}|API\\API.csproj|c:\\users\\admin\\source\\repos\\theapplication\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{99978DC2-3974-4CAF-B58B-570237675A0F}|API\\API.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99978DC2-3974-4CAF-B58B-570237675A0F}|API\\API.csproj|c:\\users\\admin\\source\\repos\\theapplication\\api\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +46,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TheApplication\\API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TheApplication\\API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T14:03:12.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TheApplication\\API\\appsettings.json",
               "RelativeDocumentMoniker": "API\\appsettings.json",
@@ -50,12 +67,11 @@
               "RelativeToolTip": "API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-06T10:17:52.235Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T10:17:52.235Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TheApplication\\API\\appsettings.Development.json",
               "RelativeDocumentMoniker": "API\\appsettings.Development.json",
@@ -68,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TheApplication\\API\\Program.cs",
               "RelativeDocumentMoniker": "API\\Program.cs",
@@ -76,25 +92,24 @@
               "RelativeToolTip": "API\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T10:06:07.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T10:06:07.829Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "API.csproj",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TheApplication\\API\\API.csproj",
               "RelativeDocumentMoniker": "API\\API.csproj",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\TheApplication\\API\\API.csproj",
               "RelativeToolTip": "API\\API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-11-06T09:46:26.2Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TheApplication\\API\\Entities\\AppUser.cs",
               "RelativeDocumentMoniker": "API\\Entities\\AppUser.cs",
@@ -102,8 +117,7 @@
               "RelativeToolTip": "API\\Entities\\AppUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T18:50:05.243Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T18:50:05.243Z"
             }
           ]
         }

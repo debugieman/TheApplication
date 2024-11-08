@@ -128,3 +128,8 @@ C:\Users\Admin\source\repos\TheApplication\api\obj\Debug\net8.0\API.csproj.Up2Da
 C:\Users\Admin\source\repos\TheApplication\api\obj\Debug\net8.0\API.dll
 C:\Users\Admin\source\repos\TheApplication\api\obj\Debug\net8.0\refint\API.dll
 C:\Users\Admin\source\repos\TheApplication\api\obj\Debug\net8.0\API.pdb
+C:\Users\Admin\source\repos\TheApplication\API\bin\Debug\net8.0\API.deps.json
+C:\Users\Admin\source\repos\TheApplication\API\bin\Debug\net8.0\API.runtimeconfig.json
+C:\Users\Admin\source\repos\TheApplication\API\bin\Debug\net8.0\API.pdb
+C:\Users\Admin\source\repos\TheApplication\API\obj\Debug\net8.0\API.genruntimeconfig.cache
+C:\Users\Admin\source\repos\TheApplication\API\obj\Debug\net8.0\ref\API.dll
