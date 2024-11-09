@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QJnnaExaEMg=",
+  "dgSpecHash": "IIKKJrdwITs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\TheApplication\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\TheApplication\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\litedb\\5.0.21\\litedb.5.0.21.nupkg.sha512",
