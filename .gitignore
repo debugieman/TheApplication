@@ -234,3 +234,6 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+API/bin/Debug/net8.0/API.exe
+API/obj/Debug/net8.0/API.AssemblyInfoInputs.cache
+API/obj/Debug/net8.0/API.dll
